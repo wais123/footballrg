@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/waisdev/football_ruang_guru/BuildConfig.java
+ com.waisdev.football_ruang_guru.BuildConfig

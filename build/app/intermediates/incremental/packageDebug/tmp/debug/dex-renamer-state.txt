@@ -1,0 +1,4 @@
+#Fri Oct 01 06:38:22 WIB 2021
+base.0=/home/muhammad/AndroidStudioProjects/football_ruang_guru/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
